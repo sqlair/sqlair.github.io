@@ -1,4 +1,4 @@
 baseURL = 'https://sqlair.github.io/'
 languageCode = 'en-us'
-title = 'SQLair'
+title = 'SQLair Documentation'
 theme = 'book'

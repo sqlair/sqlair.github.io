@@ -1,5 +1,5 @@
 # SQLair
-[GitHub](https://github.com/canonical/sqlair)
+[GitHub](https://github.com/canonical/sqlair) | [Go Package Docs](https://pkg.go.dev/github.com/canonical/sqlair)
 
 _Friendly type mapping in Go for SQL databases._
 

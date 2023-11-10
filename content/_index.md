@@ -5,8 +5,9 @@ _Friendly type mapping in Go for SQL databases._
 
 ## Features
 
-SQLair extends the SQL syntax to allow Go types to be referenced directly in the SQL query.
-The full power of SQL is retained but with all the benefits of convenient type mapping.
+SQLair is a Go package that extends the SQL syntax to allow Go types to be
+referenced directly in the SQL query. The full power of SQL is retained but
+with all the benefits of convenient type mapping.
 
 SQLair allows you to:
 
